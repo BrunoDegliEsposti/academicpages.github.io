@@ -40,9 +40,13 @@
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.date %}
+        {% elsif post.collection == 'publications' and post.category == 'manuscripts' %}
+          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B %Y" }} </p>
+        {% elsif post.collection == 'publications' and post.category == 'dissertation' %}
+          <p>Defended in {{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%B %Y" }} </p>
+        {% elsif post.collection == 'publications' and post.category == 'wip'%}
+          <p>Status: {{ post.status }}. Last update: {{ post.date | default: "1900-01-01" | date: "%B %Y" }} </p>
+        {% elsif post.collection != 'publications' and post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
@@ -76,6 +80,10 @@
       <p><a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.slidesurl %}
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
+    {% elsif post.thesisurl %}
+      <p><a href="{{ post.thesisurl }}">Download Thesis</a></p>
+    {% elsif post.preprinturl %}
+      <p><a href="{{ post.preprinturl }}">Download Preprint</a></p>
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
