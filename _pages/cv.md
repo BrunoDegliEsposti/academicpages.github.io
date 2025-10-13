@@ -12,6 +12,13 @@ redirect_from:
 My complete CV is also available as a [PDF document](/files/CV-eng.pdf).
 Last update: 8th of October, 2025.
 
+# Personal Details
+
+* **Gender:** Male.
+* **Nationality:** Italian.
+* **Date of birth:** 29th of July, 1996.
+* **Place of birth:** Prato (PO), Italy.
+
 # Education and Professional Experience
 
 * **11/2024 - present:** Postdoctoral researcher
