@@ -41,3 +41,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.masthead__menu-item.active {
+  text-decoration: underline;
+  text-decoration-thickness: 2px; // Adjust thickness
+  text-underline-offset: 6px;
+}
+
+.masthead__menu-item::before {
+  display: none
+}

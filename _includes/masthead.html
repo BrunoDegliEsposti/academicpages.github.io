@@ -13,11 +13,20 @@
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% assign a_class = "masthead__menu-item" %}
+            {% if page.url == link.url or (page.url contains link.url and link.url != '/') %}
+              {% assign a_class = "masthead__menu-item active" %}
+            {% endif %}
+            <li class="masthead__menu-item">
+              <a class="{{ a_class }}" href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+            </li>
           {% endfor %}
           <!--<li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
           </li>-->
+          <li class="masthead__menu-item">
+            <a class="masthead__menu-item" href="https://latex.brunodegliesposti.com">My Overleaf</a>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
