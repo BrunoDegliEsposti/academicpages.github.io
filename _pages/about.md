@@ -7,10 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher (assegnista di ricerca) in numerical analysis
-at the Department of Mathematics and Computer Science
+I am a contract lecturer in mathematics
+at Florida State University
+(international program in Florence),
+and an academic tutor for the Master’s in Bioinformatics
+and Data Science at the University of Siena.
+
+Previously, until November 2025, I was a postdoctoral researcher (assegnista di ricerca)
+in numerical analysis at the Department of Mathematics and Computer Science
 *Ulisse Dini* of the University of Florence, Italy,
-under the supervision of Prof. Alessandra Sestini.
+working under the supervision of Prof. Alessandra Sestini.
 
 I received my PhD in mathematics in March 2025 through a cotutelle program
 between the University of Florence and Justus-Liebig-Universität Gießen,

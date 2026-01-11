@@ -26,10 +26,10 @@ author:
   avatar           : "profile2.jpg"
   name             : "Bruno Degli Esposti"
   pronouns         : #"he/him"
-  bio              : "Postdoc in numerical analysis at the
-  department of mathematics and computer
-  science of the University of Florence"
-  location         : "Office address:<br/>Viale Morgagni 67/A,<br/>50134 Firenze, Italy"
+  bio              : "Contract lecturer in mathematics
+at Florida State University (international program in Florence),
+and academic tutor at the University of Siena"
+  location         : #"Office address:<br/>Viale Morgagni 67/A,<br/>50134 Firenze, Italy"
   employer         : #"University of Florence"
   uri              : # URL
   email            : "bruno.degliesposti@unifi.it"

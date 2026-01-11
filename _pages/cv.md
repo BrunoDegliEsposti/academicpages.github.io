@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 My complete CV is also available as a [PDF document](/files/CV-eng.pdf).
-Last update: 8th of October, 2025.
+Last update: 11th of January, 2026.
 
 # Personal Details
 
@@ -21,7 +21,23 @@ Last update: 8th of October, 2025.
 
 # Education and Professional Experience
 
-* **11/2024 - present:** Postdoctoral researcher
+* **01/2026 -- present:** Contract lecturer
+at Florida State University International Programs Italy,
+Via de' Neri 25, Florence. Sole instructor of record
+for the courses MAC2233 *Applied Calculus*
+and MGF1131 *Mathematics in Context*.
+* **12/2025 -- 01/2026:** Academic tutor
+for the Second-level Master’s in Bioinformatics
+and Data Science at the University of Siena,
+under the supervision of Prof. Moreno Falaschi
+and Prof. Maria Lucia Sampoli.
+* **11/2025 -- 12/2025:** Contract lecturer
+at Florida State University International Programs Italy,
+Via de' Neri 25, Florence. Instructor of record for
+the courses MAC1105 *College Algebra*
+(sections 50 and 51), and MGF1130
+*Mathematical Thinking*.
+* **11/2024 - 10/2025:** Postdoctoral researcher
 (*assegnista di ricerca*) in numerical analysis at the
 Department of Mathematics and Computer Science
 *Ulisse Dini*
@@ -78,6 +94,8 @@ See dedicated [page](/publications/)
 
 # Editorial and Reviewing Service
 
+* **2026 - present:** Reviewer for
+the SIAM journal on scientific computing (SISC).
 * **2025 - present:** Reviewer for
 Computers & Mathematics with Applications (CAMWA).
 
@@ -109,7 +127,7 @@ See dedicated [page](/talks/)
 * **07/2021:** Participant at Industrial Problem Solving with Physics 2021, a one-week event aimed at boosting the connection between university and industry. Work done on novel solutions to technological problems proposed by the automotive company AnteMotion.
 * **06/2019:** Participant at the XIII Modeling Week at Universidad Complutense of Madrid, Spain. Problem 4: *Steel heat treating: industrial process, mathematical modeling, free software implementation and numerical simulation* under the supervision of Prof. Francisco Ortegón Gallego.
 
-# Supervision of Students
+# Teaching and Supervision of Students
 
 See dedicated [page](/teaching/)
 
@@ -124,6 +142,6 @@ See dedicated [page](/teaching/)
 
 * **GitHub profile:** [https://github.com/BrunoDegliEsposti](https://github.com/BrunoDegliEsposti)
 * **NodeGenLib:** NodeGenLib is a header-only C++ library and a collection of MATLAB MEX functions to generate scattered nodes on complex 2D and 3D domains using an advancing front method. Its aim is to make it easier to run numerical simulations and solve practical problems using meshless/meshfree methods on challenging geometries. CAD models in STEP file format are natively supported. Available under version 3 of the LGPL license at [https://github.com/BrunoDegliEsposti/NodeGenLib](https://github.com/BrunoDegliEsposti/NodeGenLib)
-* **Basic proficiency:** Fortran 90/95, Javascript, Bash, Web development.
+* **Basic proficiency:** Fortran 90/95, Javascript, Bash, Web development, MS Excel.
 * **Intermediate:** Python, NumPy, MPI, OpenMP, CUDA, Linux server administration (Debian), Version control software (Git), Build systems (CMake).
 * **Advanced:** C, C++, MATLAB, MEX API, BLAS, LAPACK, LaTeX.
