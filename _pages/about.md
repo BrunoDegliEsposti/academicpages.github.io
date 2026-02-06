@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a contract lecturer in mathematics
+Hi there! I am a contract lecturer in mathematics
 at Florida State University
-(international program in Florence),
-and an academic tutor for the Master’s in Bioinformatics
-and Data Science at the University of Siena.
+(international program in Florence).
 
-Previously, until November 2025, I was a postdoctoral researcher (assegnista di ricerca)
+Previously, until January 2026, I was an academic tutor
+for the Master’s in Bioinformatics and Data Science
+at the University of Siena, and, until November 2025,
+a postdoctoral researcher (assegnista di ricerca)
 in numerical analysis at the Department of Mathematics and Computer Science
 *Ulisse Dini* of the University of Florence, Italy,
 working under the supervision of Prof. Alessandra Sestini.

@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 My complete CV is also available as a [PDF document](/files/CV-eng.pdf).
-Last update: 11th of January, 2026.
+Last update: 6th of February, 2026.
 
 # Personal Details
 
@@ -119,6 +119,7 @@ See dedicated [page](/talks/)
 
 # Other Conferences, Workshops, and Courses Attended
 
+* **01/2026:** Participant at UMI workshop on Mathematics for Artificial Intelligence and Machine Learning, Sapienza University of Rome.
 * **11/2024:** Participant at one-day workshop *Introduction to MATLAB on HPC systems at Cineca* organized by the national supercomputing centre for scientific research Cineca, Casalecchio di Reno, Italy.
 * **06/2024:** Participant at 2nd CINI Summer School on High-Performance Computing and Emerging Technologies, University of Trento.
 * **12/2022:** Participant at Workshop on Polytopal Element Methods in Mathematics and Engineering (POEMS 2022), Politecnico di Milano.
