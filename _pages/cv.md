@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 My complete CV is also available as a [PDF document](/files/CV-eng.pdf).
-Last update: 6th of February, 2026.
+Last update: 5th of March, 2026.
 
 # Personal Details
 
@@ -21,6 +21,14 @@ Last update: 6th of February, 2026.
 
 # Education and Professional Experience
 
+* **03/2026 -- present:** Postdoctoral researcher
+(*borsista di ricerca*) in numerical analysis at the
+Department of Information Engineering and Mathematics
+of the University of Siena, working under the supervision
+of Prof. Maria Lucia Sampoli. Title of the research
+project: *Numerical methods for the efficient
+modeling of differential problems arising from
+physiological processes*.
 * **01/2026 -- present:** Contract lecturer
 at Florida State University International Programs Italy,
 Via de' Neri 25, Florence. Sole instructor of record
@@ -39,9 +47,8 @@ the courses MAC1105 *College Algebra*
 *Mathematical Thinking*.
 * **11/2024 - 10/2025:** Postdoctoral researcher
 (*assegnista di ricerca*) in numerical analysis at the
-Department of Mathematics and Computer Science
-*Ulisse Dini*
-of the University of Florence, under the supervision
+Department of Mathematics and Computer Science *Ulisse Dini*
+of the University of Florence, working under the supervision
 of Prof. Alessandra Sestini. Title of the research project:
 *Hierarchical matrix compression techniques and parallel fast
 implementations of efficient multi-patch IgA-BEM numerical

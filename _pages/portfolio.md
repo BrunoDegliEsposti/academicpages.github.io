@@ -10,6 +10,11 @@ author_profile: true
 * **2022 - present:** Member of the national group for
 scientific computing (GNCS) of the Italian national institute
 of higher mathematics F. Severi (INdAM).
+* **2026:** Member of Cineca class C ISCRA project
+*Efficient and accurate IgA-BEM strategy for 3D wave problems in time-domain*,
+code HP10CT8DMV. Access to Galileo100 supercomputing
+cluster from 03/2026 to 12/2026.
+Principal investigator Prof. Luca Desiderio.
 * **2025:** Funded member of the annual project GNCS 2025
 *High-order BEM based numerical techniques for wave propagation problems*.
 Coordinator: Prof. Luca Desiderio, University of Messina.

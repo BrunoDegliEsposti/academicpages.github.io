@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a contract lecturer in mathematics
+Hi there! I'm a postdoctoral researcher (borsista di ricerca)
+in numerical analysis at the Department of Information Engineering
+and Mathematics of the University of Siena, working under
+the supervision of Prof. Maria Lucia Sampoli.
+I'm also a contract lecturer in mathematics
 at Florida State University
 (international program in Florence).
 
