@@ -11,13 +11,10 @@ Hi there! I'm a postdoctoral researcher (borsista di ricerca)
 in numerical analysis at the Department of Information Engineering
 and Mathematics of the University of Siena, working under
 the supervision of Prof. Maria Lucia Sampoli.
-I'm also a contract lecturer in mathematics
-at Florida State University
-(international program in Florence).
 
-Previously, until January 2026, I was an academic tutor
-for the Master’s in Bioinformatics and Data Science
-at the University of Siena, and, until November 2025,
+Previously, until April 2026, I was a contract lecturer
+in mathematics at the Florida State University Florence Study
+Center (International Program) and, until November 2025,
 a postdoctoral researcher (assegnista di ricerca)
 in numerical analysis at the Department of Mathematics and Computer Science
 *Ulisse Dini* of the University of Florence, Italy,

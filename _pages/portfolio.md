@@ -10,6 +10,10 @@ author_profile: true
 * **2022 - present:** Member of the national group for
 scientific computing (GNCS) of the Italian national institute
 of higher mathematics F. Severi (INdAM).
+* **2026:** Funded member of the annual project GNCS 2026
+*Spline Quasi-Interpolation: a smooth joint
+for differential, integral and geometric models*.
+Coordinator: Prof. Antonella Falini, University of Bari.
 * **2026:** Member of Cineca class C ISCRA project
 *Efficient and accurate IgA-BEM strategy for 3D wave problems in time-domain*,
 code HP10CT8DMV. Access to Galileo100 supercomputing

@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 My complete CV is also available as a [PDF document](/files/CV-eng.pdf).
-Last update: 5th of March, 2026.
+Last update: 25th of May, 2026.
 
 # Personal Details
 
@@ -29,7 +29,7 @@ of Prof. Maria Lucia Sampoli. Title of the research
 project: *Numerical methods for the efficient
 modeling of differential problems arising from
 physiological processes*.
-* **01/2026 -- present:** Contract lecturer
+* **01/2026 -- 04/2026:** Contract lecturer
 at Florida State University International Programs Italy,
 Via de' Neri 25, Florence. Sole instructor of record
 for the courses MAC2233 *Applied Calculus*
@@ -102,12 +102,23 @@ See dedicated [page](/publications/)
 # Editorial and Reviewing Service
 
 * **2026 - present:** Reviewer for
+the Journal of Computational and Applied Mathematics (JCAM).
+* **2026 - present:** Reviewer for
 the SIAM journal on scientific computing (SISC).
 * **2025 - present:** Reviewer for
 Computers & Mathematics with Applications (CAMWA).
 
 # Event Organization Activities
 
+* **14/09/2026:** Organizer of the
+mini-symposium *Advances in Numerical Integration
+and Discretization of Integral Equations*
+at the sixt edition of the Young Applied Mathematicians
+Conference (YAMC26), Torino, Italy.
+* **31/08/2026:** Organizer of the
+working group *RBF and kernel-based methods*
+at the Dolomites Research Week on Approximation
+and Applications 2026, Bressanone, Italy.
 * **24/09/2025:** Organizer of the
 mini-symposium *Advances in approximation
 theory and its applications* at the
