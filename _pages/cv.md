@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 My complete CV is also available as a [PDF document](/files/CV-eng.pdf).
-Last update: 25th of May, 2026.
+Last update: 29th of May, 2026.
 
 # Personal Details
 
@@ -86,6 +86,9 @@ Niccolò Copernico, Prato. Final grade: 100/100 with honors.
 
 # Scholarships and Awards
 
+* **05/2026:** HOFEIM 2026 best poster award, 2nd place.
+Poster selection committee: Professors Demkowicz,
+Hughes, Rank, Yosibash. Link to [poster page](/talks/2026-05-25-HOFEIM).
 * **2018 - 2020:** Two-year-long scholarship from INdAM (Italian national institute of higher mathematics) for young researchers.
 * **2018:** Graduation prize from the department of Mathematics and Computer Science *Ulisse Dini*, University of Florence, 1st place.
 * **2018:** Graduation prize from the University of Florence.
