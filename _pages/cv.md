@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 My complete CV is also available as a [PDF document](/files/CV-eng.pdf).
-Last update: 29th of May, 2026.
+Last update: 7th of July, 2026.
 
 # Personal Details
 
@@ -104,6 +104,8 @@ See dedicated [page](/publications/)
 
 # Editorial and Reviewing Service
 
+* **2026 - present:** Reviewer for
+the SIAM journal on numerical analysis (SINUM).
 * **2026 - present:** Reviewer for
 the Journal of Computational and Applied Mathematics (JCAM).
 * **2026 - present:** Reviewer for
