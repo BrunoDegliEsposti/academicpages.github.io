@@ -1,59 +1,25 @@
 ---
-title: "A decoupled meshless Nyström scheme for 2D
-Fredholm integral equations of the second kind
-with smooth kernels"
+title: "Decoupling solution and quadrature nodes in meshless
+Nyström methods for second-kind Fredholm integral equations"
 collection: publications
 category: wip
-status: 'in preparation'
+status: 'under review'
 permalink: /publication/2025-10-02-decoupled-meshless-Nyström
-excerpt: 'Joint work with [A. Sestini](https://scholar.google.com/citations?user=11MAzQYAAAAJ).
-The Nyström method for the numerical solution
-of Fredholm integral equations of the
-second kind is generalized by decoupling
-the set of solution nodes
-from the set of quadrature nodes.
-The accuracy and efficiency of the new
-method is investigated for smooth
-kernels and complex 2D domains
-using recently developed moment-free
-meshless quadrature formulas on scattered nodes.
-Compared to the classical Nyström method,
-our variant has a clear performance
-advantage, especially for narrow kernels...'
-date: 2025-10-02
+excerpt: 'Preprint available on [arXiv](https://arxiv.org/abs/2510.17680).
+Joint work with [A. Sestini](https://scholar.google.com/citations?user=11MAzQYAAAAJ).
+We introduce a meshless Nyström method for Fredholm integral equations of the second
+kind with smooth kernels in which the solution and quadrature nodes are chosen
+independently. Meshless moment-free quadrature formulas discretize the integral
+operator on scattered nodes, while local reconstruction with polyharmonic spline
+radial basis functions transfers values from a coarser set of solution nodes
+to a finer set of quadrature nodes. This construction yields a high-order
+method applicable to complex domains and irregular node distributions...'
+date: 2026-08-10
 slidesurl: '/files/SMART2025-bruno.pdf'
 ---
 
-**Abstract:** The Nyström method for the numerical solution
-of Fredholm integral equations of the
-second kind is generalized by decoupling
-the set of solution nodes
-from the set of quadrature nodes.
-The accuracy and efficiency of the new
-method is investigated for smooth
-kernels and complex 2D domains
-using recently developed moment-free
-meshless quadrature formulas on scattered nodes.
-Compared to the classical Nyström method,
-our variant has a clear performance
-advantage, especially for narrow kernels.
-The decoupled Nyström method requires
-the choice of a reconstruction scheme
-to approximate values at quadrature nodes
-from values at solution nodes.
-We prove that, under natural assumptions,
-the overall order of convergence is the minimum
-between that of the quadrature scheme
-and of the reconstruction scheme.
-For interpolatory reconstructions,
-we prove that decoupled Nyström methods
-are equivalent to collocation schemes
-using the corresponding cardinal functions.
-In terms of applications, we compute equilibrium
-states of various Fredholm integro-differential
-equations, including one that models
-nonlocal population dynamics
-subject to logistic growth on an island.
+**Abstract:** We introduce a meshless Nyström method for Fredholm integral equations of the second kind with smooth kernels in which the solution and quadrature nodes are chosen independently. Meshless moment-free quadrature formulas discretize the integral operator on scattered nodes, while local reconstruction with polyharmonic spline radial basis functions transfers values from a coarser set of solution nodes to a finer set of quadrature nodes. This construction yields a high-order method applicable to complex domains and irregular node distributions. We provide a well-posedness and convergence analysis of the resulting discretization. Under natural assumptions, we establish unique solvability for sufficiently dense node sets and derive an error bound that separates the contributions of quadrature and reconstruction. The overall convergence order is determined by the lower of the quadrature and reconstruction orders. When these orders coincide, we propose a coarse-grid parameter sweep to identify a nearly optimal ratio between the densities of solution and quadrature nodes. Numerical experiments on planar domains confirm the predicted rates and demonstrate a substantial increase in computational efficiency over the classical Nyström method, especially for narrow kernels.
 
-I have recently given a talk on this topic at the SMART 2025 conference
+I have given a talk on this topic at the SMART 2025 conference
 in Reggio Calabria, Italy. Slides are available for download.
+Preprint available at [https://arxiv.org/abs/2510.17680](https://arxiv.org/abs/2510.17680)

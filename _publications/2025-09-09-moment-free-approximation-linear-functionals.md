@@ -10,7 +10,7 @@ we have introduced a way to overcome the moment computation
 problem in the context of numerical integration. Our approach only requires
 a single non-zero moment to be known, and in many cases leads to an
 effectively *moment-free* numerical scheme.
-In this talk, we generalize our moment-free approach to *any* linear functional,
+In this work, we generalize our moment-free approach to *any* linear functional,
 provided that two conditions are met...'
 date: 2025-09-09
 slidesurl: '/files/DRWAA25-bruno.pdf'
@@ -28,7 +28,7 @@ This problem arises in numerical analysis when $$\Phi(f)$$ is known or can be ev
 The usual way to determine $$w$$ is to impose exactness of (1) over a finite-dimensional subspace $$\mathcal{S} \subset \mathcal{F}$$ spanned by generators $$s_1,\dots,s_M$$, which leads to a linear system for the weights. This simple approach is known as *moment-fitting*, and its main downside is that it requires $$\Lambda$$ to be evaluated over all generators when assembling the right-hand side of the system, a task potentially as hard as computing $$\Lambda(f)$$ itself. In earlier work [1], we have introduced a way to overcome the moment computation problem in the context of numerical integration. It only requires a single non-zero moment to be known, and in many cases leads to an
 effectively *moment-free* approximation of $$\Lambda$$.
 
-In this talk, we generalize our moment-free approach to *any* linear functional, provided that two conditions are met. First, there must be a natural way to include $$\Lambda$$ into an exact sequence of Banach spaces
+In this work, we generalize our moment-free approach to *any* linear functional, provided that two conditions are met. First, there must be a natural way to include $$\Lambda$$ into an exact sequence of Banach spaces
 \\[
 \mathcal{U} \xrightarrow{\mathcal{A}}
 \mathcal{F} \xrightarrow{\Lambda}
@@ -48,5 +48,5 @@ We present a characterization of the solvability of this system, as well as a pr
 *Meshless moment-free quadrature formulas arising from numerical differentiation.*
 Computer Methods in Applied Mechanics and Engineering, 445, 118199.
 
-I have recently given a talk on this topic at the DRWAA 2025 workshop
+I have given a talk on this topic at the DRWAA 2025 workshop
 in Alba di Canazei, Italy. Slides are available for download.

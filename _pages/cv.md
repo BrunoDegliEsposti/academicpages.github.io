@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 My complete CV is also available as a [PDF document](/files/CV-eng.pdf).
-Last update: 7th of July, 2026.
+Last update: 14th of September, 2026.
 
 # Personal Details
 
@@ -98,7 +98,7 @@ Hughes, Rank, Yosibash. Link to [poster page](/talks/2026-05-25-HOFEIM).
 
 See dedicated [page](/portfolio/)
 
-# Peer-Reviewed Publications
+# Peer-Reviewed Publications and Preprints
 
 See dedicated [page](/publications/)
 

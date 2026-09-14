@@ -37,9 +37,11 @@ Coordinator: Prof. Maria Lucia Sampoli, University of Siena.
 Coordinator: Prof. Francesca Pelosi, University
 of Rome Tor Vergata.
 
+{% if site.portfolio and site.portfolio != empty %}
 # Prospective Research
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+{% endif %}
 

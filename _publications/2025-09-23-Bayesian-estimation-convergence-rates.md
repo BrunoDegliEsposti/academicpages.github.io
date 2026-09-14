@@ -14,8 +14,8 @@ with statistical methods. The main reason for this difference is that simple vis
 enough, especially when theory already predicts the expected decay rate. However, these methods are not
 effective when errors are noisy, for example in stochastic algorithms, or even in deterministic methods
 affected by random choices such as mesh generation...'
-date: 2025-09-23
-slidesurl: '/files/YAMC25-bruno.pdf'
+date: 2026-05-14
+slidesurl: '/files/MSIDS-bruno.pdf'
 ---
 
 **Abstract:** In numerical analysis, it is common to estimate the convergence rate of numerical methods by plotting absolute or relative errors against a discretization parameter $$h$$ on a log-log scale. The rate is then typically judged by visually comparing the data to reference lines with known slopes, which correspond to integer powers of $$h$$.
@@ -30,5 +30,6 @@ Second, we are able to quantify the robustness of a numerical method (an otherwi
 
 To achieve this, we analyze error distributions from popular numerical methods to build a realistic model for inference. Using a non-informative prior, we carry out posterior inference for the model parameters with a Metropolis-within-Gibbs Markov Chain Monte Carlo (MCMC) algorithm. Our numerical results show that this approach gives reliable estimates of convergence rates even for very noisy data, which rule out visual inspection and linear regression on a log-log scale.
 
-I have recently given a talk on this topic at the YAMC 2025 conference
-in Padova, Italy. Slides are available for download.
+I have given a talk on this topic at the BIRS-IMAG workshop
+Multivariate Splines for Inferential Data Science in Granada, Spain.
+Slides are available for download.
