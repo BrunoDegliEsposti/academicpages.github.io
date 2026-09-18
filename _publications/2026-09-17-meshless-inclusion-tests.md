@@ -17,6 +17,7 @@ that of state-of-the-art nearest-neighbor methods, even on non-smooth domains.
 Since the neural networks only take as inputs local boundary samples,
 they are naturally domain-independent and very quick to evaluate...'
 date: 2026-09-17
+slidesurl: '/files/YAMC2026-contributed-bruno.pdf'
 ---
 
 **Abstract:** Determining whether an arbitrary query point y in
@@ -47,3 +48,6 @@ method whose accuracy on randomly sampled query points exceeds
 that of state-of-the-art nearest-neighbor methods, even on non-smooth domains.
 Since the neural networks only take as inputs local boundary samples,
 they are naturally domain-independent and very quick to evaluate.
+
+I have recently given a talk on this topic at YAMC 2026
+in Torino, Italy. Slides are available for download.

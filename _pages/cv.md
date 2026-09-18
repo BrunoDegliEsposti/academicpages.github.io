@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 My complete CV is also available as a [PDF document](/files/CV-eng.pdf).
-Last update: 14th of September, 2026.
+Last update: 18th of September, 2026.
 
 # Personal Details
 

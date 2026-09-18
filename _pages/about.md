@@ -14,7 +14,7 @@ the supervision of Prof. Maria Lucia Sampoli.
 
 Previously, until April 2026, I was a contract lecturer
 in mathematics at the Florida State University Florence Study
-Center (International Program) and, until November 2025,
+Center (International Program in Florence) and, until November 2025,
 a postdoctoral researcher (assegnista di ricerca)
 in numerical analysis at the Department of Mathematics and Computer Science
 *Ulisse Dini* of the University of Florence, Italy,

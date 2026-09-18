@@ -16,8 +16,8 @@ Unlike Runge-Kutta CQ, which requires eigendecompositions
 at the timestep level, our BVM approach exhibits
 global diagonalizability, immediately yielding
 decoupled Helmholtz problems...'
-date: 2026-07-21
-slidesurl: '/files/IMSE2026-bruno.pdf'
+date: 2026-09-18
+slidesurl: '/files/YAMC2026-mini-bruno.pdf'
 ---
 
 **Abstract:** Time-domain boundary integral equations (TDBIEs)
@@ -61,5 +61,5 @@ significantly more accurate than state-of-the-art
 Runge-Kutta CQ for equivalent sets of decoupled
 Helmholtz problems.
 
-I have given a talk on this topic at the IMSE 2026 conference
-in Matera, Italy. Slides are available for download.
+I have recently given a talk on this topic at YAMC 2026
+in Torino, Italy. Slides are available for download.
